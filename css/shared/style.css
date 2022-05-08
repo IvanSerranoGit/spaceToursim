@@ -1,35 +1,27 @@
-/* Declare global variables */
 :root {
     --black: #0b0d17;
     --pale-blue: #d0d6f9;
     --white: #fff;
     --hover-grey: #979797;
  }
- 
- /* Remove padding and margin */
+
  * {
     margin: 0;
     padding: 0;
     border: 0;
  }
- 
- /* * {
-   outline: 1px solid #f00 !important;
- } */
- 
- /* Set default body styles */
+
  body {
+    background-color: var(--black);
     font-family: "Bellefair", sans-serif;
     height: 100vh;
     background-size: cover;
     background-position: center;
-    /* background-repeat: no-repeat; */
     color: var(--white);
     display: flex;
     flex-direction: column;
  }
  
- /* Set default a tag styles */
  a {
     color: inherit;
     text-decoration: none;
@@ -39,7 +31,6 @@
     color: inherit;
  }
  
- /* Set default header styles */
  
  h1,
  h2,
@@ -50,7 +41,6 @@
     font-weight: normal;
  }
  
- /* Typography style classes */
  
  button.nav-text,
  li a.nav-text {
