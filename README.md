@@ -92,7 +92,6 @@ Users should be able to:
 
 ## Author
 
--  Name: Jordan Na
--  Website - [Github Profile](https://github.com/jordan-na)
--  Frontend Mentor - [@jordan-na](https://www.frontendmentor.io/profile/jordan-na)
--  Email - jordster02@gmail.com
+-  Name: Ivan Serrano
+-  Website - [Github Profile](https://github.com/IvanSerranoGit)
+-  Email - contacto.ivanserrano@gmail.com
